@@ -1,0 +1,24 @@
+# Node.js
+/backend-nodejs/node_modules/
+/backend-nodejs/.env
+backend_nodejs/.history/
+
+# Flutter
+/flutter-app/.dart_tool/
+/flutter-app/build/
+/flutter-app/.idea/
+/flutter-app/.packages
+/flutter-app/pubspec.lock
+/flutter-app/.env
+
+
+# Global
+.DS_Store
+
+
+
+backend_nodejs/serviceAccountKey.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+*.pem
+*.key
